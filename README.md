@@ -30,4 +30,4 @@ $chmod +x *
 
 $ls 
 
-$python BadshaHeaker. py
+$python BadshaHeaker.py
