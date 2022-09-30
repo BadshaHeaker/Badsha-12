@@ -8,6 +8,8 @@ $pkg upgrade
 
 $pkg install python
 
+$pkg install bs4
+
 $pkg install python2
 
 $pip install requests
