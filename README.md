@@ -2,34 +2,34 @@
 
 Command
 
-$pkg update
+pkg update
 
-$pkg upgrade
+pkg upgrade
 
-$pkg install python
+pkg install python
 
-$pkg install bs4
+pkg install bs4
 
-$pkg install python2
+pkg install python2
 
-$pip install requests
+pip install requests
 
-$pip install futures
+pip install futures
 
-$pip install rich
+pip install rich
 
-$pkg install git 
+pkg install git 
 
-$git clone  https://github.com/BadshaHeaker/Badsha-12.git
+git clone  https://github.com/BadshaHeaker/Badsha-12.git
 
-$ls 
+ls 
 
-$cd Badsha-12
+cd Badsha-12
 
-$ls
+ls
 
-$chmod +x *
+chmod +x *
 
-$ls 
+ls 
 
-$python BadshaHeaker.py
+python BadshaHeaker.py
